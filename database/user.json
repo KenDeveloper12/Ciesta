@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "chatId": "6033158015",
+      "username": "Nikitod",
+      "telegramUsername": "Aeroltzz",
+      "fullName": "Aeroltzz",
+      "role": "owner",
+      "registeredAt": "2025-03-24T09:52:44.240Z",
+      "createdAt": "2025-03-24T09:27:05.396Z",
+      "updatedAt": "2025-03-24T09:52:44.257Z"
+    },
+    {
+      "chatId": "6317113371",
+      "username": "Gwahh",
+      "telegramUsername": "gwahmee",
+      "fullName": "gwahme",
+      "role": "owner",
+      "registeredAt": "2025-03-24T09:28:41.903Z",
+      "createdAt": "2025-03-24T09:28:41.907Z",
+      "updatedAt": "2025-03-24T09:54:04.837Z"
+    }
+  ]
+}
