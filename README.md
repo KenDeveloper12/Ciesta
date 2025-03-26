@@ -25,9 +25,9 @@ npm install https fs path node-telegram-bot-api
 ```
 
 ### **3. Configure the Bot**  
-Rename **`config.example.js`** to **`config.js`** and update the required values:  
+go to **config.js** then rename this section : 
 
-```javascript
+```
 module.exports = {
   ownerId: 'YOUR_TELEGRAM_USER_ID',
   token: 'YOUR_TELEGRAM_BOT_TOKEN',
@@ -42,20 +42,12 @@ module.exports = {
 
 ### **4. Run the Bot**  
 ```sh
-npm start or node bot.js
+npm start
 ```
-
----
-
-## **Usage**  
-
-### **General Commands**  
-| Command | Description |
-|---------|------------|
-| `/start` | Start interacting with the bot. |
-| `/register [username]` | Register as a user. |
-| `/status` | Check your user status. |
-| `/listmenu` | Show the list of available commands. |
+or
+```sh
+node bot.js
+```
 
 ---
 
@@ -63,11 +55,6 @@ npm start or node bot.js
 ## **Dependencies**  
 - [Node Telegram Bot API](https://www.npmjs.com/package/node-telegram-bot-api)  
 - [Axios](https://www.npmjs.com/package/axios)  
-
----
-
-## **Contributing**  
-myself  
 
 ---
 
